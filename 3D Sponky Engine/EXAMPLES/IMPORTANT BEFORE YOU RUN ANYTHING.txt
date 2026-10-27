@@ -1,0 +1,7 @@
+THIS PROGRAM IS WINDOWS CONSOLE BASED, SO TO SHOW CORRECTLY THE PIXELS ON CONSOLE YOU HAVE TO ZOOM OUT OR LOWER FONT SIZE (with ctrl -) (or with console configuration).
+
+This program is a console based program, that's the great part, the most difficulties where found in that, i'm not into different 3D libraries, I tried OpenGL and I liked it, but I wanted to see how difficult was to make it run in a Windows console.
+
+I wanted to find a tutorial, but it was imposible, I never found one and I wanted to start learning about this beautiful 3D rendering software, it has lots of maths, matrices, vectors, problems and optimizations at its peak, so feel free to experiment and learn with this little proyect, it took months to complete and it had much more to offer, due to school I could not be able to finish, but I hope I wasn't the only crazy dude fascinated with this idea!
+
+Enjoy my showcase of peak programming and hundreds of problems solved, to give birth to this masterpiece.
